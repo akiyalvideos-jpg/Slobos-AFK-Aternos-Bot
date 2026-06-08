@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "RioAnarchy.aternos.me",
+    "port": 11229,
     "version": "",
     "try-creative": false
   },
